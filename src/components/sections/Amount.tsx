@@ -87,7 +87,7 @@ export default function Amount({ onSendToStepper }: AmountProps) {
           <div className="relative">
             {/* Keep Input style inline */}
             <Input
-              style={{ height: "40px", width: "425px" }}
+              style={{ height: "40px", width: "415px" }}
               placeholder="0.00"
               value={inputValue}
               onChange={handleChange}
