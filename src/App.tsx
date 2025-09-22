@@ -25,7 +25,7 @@ export default function App() {
           <h1 style={{ fontSize: "30px", fontWeight: 600 }}>Transfer</h1>
           <Stepper active={stepperActive} />
 
-          <div id="container" className="w-[786px] mx-auto flex flex-col gap-4">
+          <div id="container" className="w-[826px] px-5 mx-auto flex flex-col gap-4">
             <Asset onSendToStepper={handleStepperFromChild} />
             <From onSendToStepper={handleStepperFromChild} />
             <To onSendToStepper={handleStepperFromChild} />
