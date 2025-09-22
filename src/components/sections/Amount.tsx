@@ -1,4 +1,4 @@
-import { Input } from "../../components/ui/input";
+import { Input } from "../../components/ui/Input";
 import { Button } from "../ui/Button";
 import React, { useState } from "react";
 import usdtImage from "../../img/usdt-img.png";
