@@ -100,7 +100,7 @@ export default function From({ onSendToStepper }: FromProps) {
                     </AccordionTrigger>
 
                     <AccordionContent>
-                        <div className="flex flex-col gap-3 pr-4 pl-4 pb-6 float-right w-[565px]">
+                        <div className="flex flex-col gap-3 pr-4 pl-4 pb-6 float-right w-[555px]">
 
                             {/* Filter Buttons - USED ID HERE for scroll logic in CSS file */}
                             <div id="button-row" className="bg-[#f4f4f6] rounded-[9px] p-[5px] flex flex-row border border-[#68819926] overflow-x-auto overflow-y-hidden whitespace-nowrap"> 

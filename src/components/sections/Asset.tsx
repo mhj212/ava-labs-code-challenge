@@ -103,7 +103,7 @@ import {
   
             <AccordionContent>
               <div
-                className="flex flex-col w-[565px] gap-3 pr-4 pl-4 pb-6 float-right"
+                className="flex flex-col w-[555px] gap-3 pr-4 pl-4 pb-6 float-right"
               >
                 <SearchInput onSearch={setSearch} />
                 {filteredAssets.map((item, i) => (

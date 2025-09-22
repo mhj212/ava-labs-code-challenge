@@ -135,7 +135,7 @@ export default function To({ onSendToStepper }: ToProps) {
           </AccordionTrigger>
 
           <AccordionContent>
-            <div className="flex flex-col gap-3 pr-4 pl-4 pb-6 h-[670px] w-[565px] float-right">
+            <div className="flex flex-col gap-3 pr-4 pl-4 pb-6 h-[670px] w-[555px] float-right">
               <SearchInput onSearch={setSearch} />
 
               {/* Filter Buttons */}
